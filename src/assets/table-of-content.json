@@ -1,0 +1,156 @@
+{
+  "tableOfContent": [{
+      "label": "Informazioni",
+      "link": "/info",
+      "links": [{
+        "label": "Benvenuti",
+        "link": "/info/welcome"
+      }]
+    },
+    {
+      "label": "Componenti",
+      "link": "/componenti",
+      "links": [{
+          "label": "Checkbox",
+          "link": "/componenti/checkbox"
+        },
+        {
+          "label": "Progress Bar",
+          "link": "/componenti/progress-bar"
+        },
+        {
+          "label": "Toggle",
+          "link": "/componenti/toggle"
+        },
+        {
+          "label": "Popover",
+          "link": "/componenti/popover"
+        },
+        {
+          "label": "Radio button",
+          "link": "/componenti/radio"
+        },
+        {
+          "label": "Tooltip",
+          "link": "/componenti/tooltip"
+        },
+        {
+          "label": "Button",
+          "link": "/componenti/button"
+        },
+        {
+          "label": "Badge",
+          "link": "/componenti/badge"
+        },
+        {
+          "label": "Dropdown",
+          "link": "/componenti/dropdown"
+        },
+        {
+          "label": "Breadcrumb",
+          "link": "/componenti/breadcrumb"
+        },
+        {
+          "label": "Tabs",
+          "link": "/componenti/tabs"
+        },
+        {
+          "label": "Collapse",
+          "link": "/componenti/collapse"
+        },
+        {
+          "label": "Form Input",
+          "link": "/componenti/form-input"
+        },
+        {
+          "label": "Back Button",
+          "link": "/componenti/back-button"
+        },
+        {
+          "label": "Chip",
+          "link": "/componenti/chip"
+        },
+        {
+          "label": "Forward",
+          "link": "/componenti/forward"
+        },
+        {
+          "label": "Dimmer",
+          "link": "/componenti/dimmer"
+        },
+        {
+          "label": "Callout",
+          "link": "/componenti/callout"
+        },
+        {
+          "label": "Upload",
+          "link": "/componenti/upload"
+        },
+        {
+          "label": "Steppers",
+          "link": "/componenti/steppers"
+        },
+        {
+          "label": "Select",
+          "link": "/componenti/select"
+        },
+        {
+          "label": "Notifications",
+          "link": "/componenti/notifications"
+        },
+        {
+          "label": "Rating",
+          "link": "/componenti/rating"
+        },
+        {
+          "label": "Pagination",
+          "link": "/componenti/pagination"
+        },
+        {
+          "label": "Table",
+          "link": "/componenti/table"
+        },
+        {
+          "label": "Textarea",
+          "link": "/componenti/textarea"
+        },
+        {
+          "label": "Alert",
+          "link": "/componenti/alert"
+        },
+        {
+          "label": "Spinner",
+          "link": "/componenti/spinner"
+        },
+        {
+          "label": "Icons",
+          "link": "/componenti/icon"
+        },
+        {
+          "label": "Error Page",
+          "link": "/componenti/error-page"
+        },
+        {
+          "label": "Modal",
+          "link": "/componenti/modal"
+        },
+        {
+          "label": "Language switcher",
+          "link": "/componenti/language-switcher"
+        },
+        {
+          "label": "Password Input",
+          "link": "/componenti/password-input"
+        },
+        {
+          "label": "Carousel",
+          "link": "/componenti/carousel"
+        },
+        {
+          "label": "Range",
+          "link": "/componenti/range"
+        }
+      ]
+    }
+  ]
+}

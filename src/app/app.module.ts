@@ -1,19 +1,22 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { HttpBackend, HttpClientModule } from '@angular/common/http';
-import { TranslateStore, TranslateModule, TranslateLoader } from '@ngx-translate/core';
-import { MultiTranslateHttpLoader } from 'ngx-translate-multi-http-loader';
+import { TranslateStore } from '@ngx-translate/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { DesignAngularKitModule } from 'projects/design-angular-kit/src/public_api';
-import { RouterDispatcherComponent } from './components/router-dispatcher/router-dispatcher.component';
+
+import { TableOfContentComponent } from './components/table-of-content/table-of-content.component';
+import { TableOfContentItemComponent } from './components/table-of-content-item/table-of-content-item.component';
+import { LinkSortPipe } from './pipe/link-sort.pipe';
 
 @NgModule({
 	declarations: [
 		AppComponent,
-		RouterDispatcherComponent,
 		
+		TableOfContentComponent,
+    	TableOfContentItemComponent,
+		LinkSortPipe,
 	],
 	imports: [
 		BrowserModule,
