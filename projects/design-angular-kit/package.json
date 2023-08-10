@@ -1,0 +1,42 @@
+{
+  "name": "design-angular-kit",
+  "description": "Un toolkit Angular conforme alle linee guida di design per i servizi web della PA",
+  "version": "1.0.0-18",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "angular",
+    "toolkit",
+    "design",
+    "italia",
+    "frontend",
+    "bootstrap5"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/italia/design-angular-kit.git"
+  },
+  "author": {
+    "name": "Antonino Bonanno",
+    "email": "bonanno@net-serv.it",
+    "url": "https://github.com/AntoninoBonanno"
+  },
+  "contributors": [
+    {
+      "name": "Net Service Srl",
+      "email": "areatecnica@net-serv.it",
+      "url": "https://www.net-serv.it/"
+    }
+  ],
+  "dependencies": {
+    "tslib": "^2.6.0"
+  },
+  "peerDependencies": {
+    "@angular/animations": "^16.0.0",
+    "@angular/common": "^16.0.0",
+    "@angular/core": "^16.0.0",
+    "@angular/platform-browser": "^16.0.0",
+    "@ngx-translate/core": "^15.0.0",
+    "@ngx-translate/http-loader": "^8.0.0",
+    "bootstrap-italia": "^2.6.0"
+  }
+}

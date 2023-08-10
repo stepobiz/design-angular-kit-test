@@ -1,0 +1,10 @@
+<a #backToTop [id]="id"
+   href="#"
+   aria-hidden="true"
+   class="back-to-top"
+   [class.back-to-top-small]="isSmall"
+   [class.shadow]="isShadow"
+   [class.dark]="isDark">
+
+  <it-icon name="arrow-up" [color]="isDark ? 'secondary' : 'light'"></it-icon>
+</a>
