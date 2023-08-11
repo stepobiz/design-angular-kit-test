@@ -15,8 +15,8 @@ const routes: Routes = [
 		path: 'componenti',
 		//component: RouterDispatcherComponent,
 		children: [
-			{ path: '', redirectTo: 'badge', pathMatch: 'full' },
-			//{ path: 'badge', loadChildren: () => import('src/app/modules/badge/badge.module').then(m => m.BadgeModule) },
+			{ path: '', redirectTo: 'lang', pathMatch: 'full' },
+			//{ path: 'lang', loadChildren: () => import('src/app/modules/language-switcher/language-switcher.module').then(m => m.LanguageSwitcherModule) },
 		]
 	}
 ];
